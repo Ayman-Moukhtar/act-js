@@ -1,0 +1,9 @@
+{
+  "name": "act-js",
+  "version": "1.0.0",
+  "description": "Learning JS",
+  "main": "index.js",
+  "author": "Ayman Moukhtar",
+  "license": "ISC",
+  "dependencies": {}
+}
